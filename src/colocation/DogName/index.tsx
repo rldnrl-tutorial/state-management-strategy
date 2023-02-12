@@ -1,0 +1,1 @@
+export { default as DogName } from './DogName'
